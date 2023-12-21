@@ -9,4 +9,4 @@ PORT =
 DB_URL = postgres://username:password@localhost:5432/dbname?sslmode=disable
 ```
 
-to start the server run `make run` or `go run main.go` if you dont have make installed
+to start the server run `make run` 
